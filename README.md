@@ -4,9 +4,9 @@ Este proyecto es un ejemplo de una API REST sencilla desarrollada con Spring Boo
 No utiliza base de datos; los datos se almacenan temporalmente en memoria mientras la aplicación está corriendo.
 
 Endpoints:
-POST /users
+1) POST /users
 Registra un usuario nuevo.
-GET /users
+2) GET /users
 Obtiene la lista de usuarios registrados durante la sesión actual.
 
 Requisitos:
